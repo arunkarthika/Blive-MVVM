@@ -1,0 +1,163 @@
+<resources>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="profile">profile</string>
+    <string name="skip">skip</string>
+
+    <string name="agora_app_id">dfbd34df64c84629b4250b20700fa419</string>
+    <string name="facebook_app_id">2123580187890364</string>
+    <string name="fb_login_protocol_scheme">fb2123580187890364</string>
+
+    <string name="website_url">www.google.com</string>
+    <string name="website_domain">www.google.com</string>
+    <string name="terms_amp_conditions">By Signing up you agree to our \n<u>Terms &amp; conditions</u></string>
+    <string name="mobile">Mobile</string>
+    <string name="name">Name</string>
+    <string name="user_name">User Name</string>
+    <string name="referral">Referral Code (optional)</string>
+    <!-- Twitter -->
+    <string name="com.twitter.sdk.android.CONSUMER_KEY">AlqfZ7Rzmn6eMhC4W0PVJK46h</string>
+    <string name="com.twitter.sdk.android.CONSUMER_SECRET">Fw64iOOgDBPiWNIouB6R3yEaqlcs4Gi0xUdFSz8gyiIo4Z5Xhz</string>
+    <string name="exit">Exit</string>
+    <string name="admin_block">Your ID is reset due to inappropriate actions, so your session is currently invisible to other viewers. Please login after few minutes. For more details e-mail to <font color='#023DBA'>support@blive24hrs.com</font>. \nNote: Mention your Blive ID and issues faced.\nThank You!</string>
+    <string name="filter_name">abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789</string>
+    <string name="filter_number">0123456789</string>
+    <string name="create_account">Continue</string>
+    <string name="male">Male</string>
+    <string name="female">Female</string>
+    <string name="numbers">0123456789</string>
+    <string name="send_otp">send otp</string>
+    <string name="verify">Verify</string>
+    <string name="reset_number"><u>Reset Number</u></string>
+    <string name="bulletmsg">Bullet Message Sent</string>
+    <string name="offline">Currently the user is OFFLINE</string>
+    <string name="gift">Gift</string>
+    <string name="assets">Assests</string>
+    <string name="freeGift">Free Gift</string>
+    <string name="message_hint">Type Here...</string>
+    <string name="broadcast_paused">Broadcast has been Paused! Waiting for Broadcaster To Resume Broadcasting!</string>
+    <string name="go_live">Go Live</string>
+    <string name="fans">Fans</string>
+    <string name="following">Following</string>
+    <string name="friends">Friends</string>
+
+    <string name="off_mess">Official Message</string>
+    <string name="message">Message</string>
+    <string name="level">Level</string>
+    <string name="wallet">Wallet</string>
+    <string name="rewards">Rewards</string>
+    <string name="assts">My Assets</string>
+    <string name="myprogress">My Progress</string>
+    <string name="topfans">Top Fans</string>
+    <string name="checkIn">Check In</string>
+    <string name="header_name">BLive</string>
+    <string name="privacy">Privacy Settings</string>
+    <string name="blockedList">Block List</string>
+    <string name="connectAccount">Connected Accounts</string>
+    <string name="pin">Pin Change</string>
+    <string name="suggestions">Suggestions</string>
+    <string name="about_us">About Us</string>
+    <string name="logout">Logout</string>
+    <string name="version">Version 1.7.4</string>
+    <string name="cache">Clear Cache</string>
+    <string name="warning">Warning: Any display of weapons; adultery, indecent exposure; content unsuitable for children; strong language; consumption of tobacco, alcohol, or drugs; contents banned by respective governments is prohibited.<font color='#FF7443'> अन्य एप्लिकेशन के बारे में चर्चा करने से आईडी ब्लॉक हो जाएगी. Live Broadcasts are monitored 24x7.</font></string>
+    <string name="no_blockList_available">Block List Empty!</string>
+    <string name="live_ended">LIVE Ended</string>
+    <string name="you_can_watch_another_live">You Can Watch Another Live</string>
+    <string name="ok">OK</string>
+    <string name="no_users_available">No Users Available</string>
+
+    <string name="hide_location"> After turning this on,only followers can see your Location</string>
+    <string name="hide_age"> After turning this on,only followers can see your Age</string>
+    <string name="broadcastEnd">Broadcast ended!</string>
+    <string name="gift_receive">Gift Received</string>
+    <string name="gift_send">Gift Sent</string>
+    <string name="hide_BId">Hide BLive I\'D</string>
+    <string name="hide_Dob">Hide Date of Birth</string>
+    <string name="hide_gender_txt">Hide Gender</string>
+    <string name="hide_age_txt">Hide Age</string>
+    <string name="hide_profile"> After turning this on,only followers can see your profile</string>
+    <string name="hide_dob"> After turning this on,only followers can see your DOB</string>
+    <string name="hide_gender"> After turning this on,only followers can see your Gender</string>
+    <string name="country">Country</string>
+    <string name="mobile_no">Mobile</string>
+    <string name="about_you">About You</string>
+    <string name="select_gender">Select Gender</string>
+    <string name="enter_mobileNo">Enter Mobile Number</string>
+    <string name="city">City</string>
+    <string name="state">State</string>
+    <string name="blive_id">BLIVE ID</string>
+    <string name="bio">BIO</string>
+    <string name="birthday">Birthday</string>
+    <string name="choose_birthday">Choose Birthday</string>
+    <string name="referral_code">Referral Code</string>
+    <string name="start">GOT IT</string>
+    <string name="save">Save</string>
+    <string name="gender">Gender</string>
+    <string name="accept">Accept</string>
+    <string name="joinvideo">Join Video Call</string>
+    <string name="placeholder">Say something…</string>
+
+    <string name="token">null</string>
+    <string name="rtm_token">"null"</string>
+
+    <string name="app_id">181f5a99fe854f1eab1987f4c7542648</string>
+
+
+    <string-array name="random_surnames">
+        <item>Zhao</item>
+        <item>Qian</item>
+        <item>Sun</item>
+        <item>Li</item>
+        <item>Zhou</item>
+        <item>Wu</item>
+        <item>Zheng</item>
+        <item>Wang</item>
+        <item>Feng</item>
+        <item>Chen</item>
+        <item>Chu</item>
+        <item>Wei</item>
+    </string-array>
+
+    <string-array name="random_names">
+        <item>Fuqiang</item>
+        <item>Minzhu</item>
+        <item>Wenming</item>
+        <item>Hexie</item>
+        <item>Ziyou</item>
+        <item>Pingdeng</item>
+        <item>Gongzheng</item>
+        <item>Fazhi</item>
+        <item>Aiguo</item>
+        <item>Jingye</item>
+        <item>Chengxin</item>
+        <item>Youshan</item>
+    </string-array>
+
+    <string-array name="voice_effect_keys">
+        <item>Default</item>
+        <item>KTV</item>
+        <item>Live</item>
+        <item>Uncle</item>
+        <item>Girl</item>
+        <item>Studio</item>
+        <item>Pop</item>
+        <item>R&amp;B</item>
+        <item>Phonograph</item>
+    </string-array>
+
+    <string-array name="voice_beautify_keys">
+        <item>Default</item>
+        <item>Thick</item>
+        <item>Low</item>
+        <item>Round</item>
+        <item>Falsetto</item>
+        <item>Full</item>
+        <item>Clear</item>
+        <item>Resounding</item>
+        <item>Loud</item>
+        <item>OpenAir</item>
+    </string-array>
+
+</resources>
